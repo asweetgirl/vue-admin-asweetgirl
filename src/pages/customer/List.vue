@@ -120,7 +120,7 @@ export default {
       this.visible = false;
     },
     toAddHandler(){
-      //将form变为初始值S
+      //将form变为初始值
       this.form = {
         type:"customer"
       }
